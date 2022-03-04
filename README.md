@@ -1,4 +1,4 @@
-# Codepath-Intro-to-Mobile-Development-Labs
+# Codepath-Intro-to-Mobile-Development-Lab-1
 A collection of my labs from my Codepath, Intro to Mobile Development Course
 # Lab 1 : 
 
