@@ -3,9 +3,10 @@
 ## Lab 2
 
 ### App Description
-`TODO://` Add app description
+Reviewly now allows the user to create a new card with a custom question and answer.
 
 ### App Walk-though
+![Lab 2 GIF](https://user-images.githubusercontent.com/72318904/159095890-4c96f074-9d7a-4c11-87a9-a86beb0f154a.gif)
 
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
